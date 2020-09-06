@@ -16,5 +16,3 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 # Calculate_Your_BMI
 
-https://github.com/eslamesmail-hub/bmi-calculator/issues/1#issue-694449670
-
