@@ -2,7 +2,7 @@
 
 a Body Mass Index Calculator. It will be a multi screen app with simple functionality but full-on custom styling.
 
-![bmi-calc-demo](https://user-images.githubusercontent.com/70852067/92388247-4442ed00-f117-11ea-913e-e37534a1b208.gif)
+![1](https://user-images.githubusercontent.com/70852067/92391078-53786980-f11c-11ea-99ee-8bebcdbf3753.gif)
 
 # What you will learn
 
