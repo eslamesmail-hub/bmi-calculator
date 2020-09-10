@@ -2,7 +2,9 @@
 
 a Body Mass Index Calculator inspired by the beautiful designs made by <a href="https://dribbble.com/shots/4585382-Simple-BMI-Calculator" rel="nofollow">Ruben Vaalt</a>. It will be a multi screen app with simple functionality but full-on custom styling.
 
-![first app](https://user-images.githubusercontent.com/70852067/92391344-c71a7680-f11c-11ea-9304-4d01a2ada3b8.gif)
+![bmi-calculator-1](https://user-images.githubusercontent.com/70852067/92696388-172a5080-f34a-11ea-9a4a-4265b5d34134.png)
+![bmi-calculator-2](https://user-images.githubusercontent.com/70852067/92696394-198caa80-f34a-11ea-88cf-4e9002c101f2.png)
+
 
 Flutter themes to create coherent branding.  
 Multi-page app using Flutter Routes/Navigator.  
