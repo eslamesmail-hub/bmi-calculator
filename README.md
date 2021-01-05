@@ -2,7 +2,7 @@
 
 a Body Mass Index Calculator inspired by the beautiful designs made by <a href="https://dribbble.com/shots/4585382-Simple-BMI-Calculator" rel="nofollow">Ruben Vaalt</a>. It will be a multi screen app with simple functionality returns one of three results "NORMAL" - "UNDERWEIGHT" - "OVERWEIGHT" (based on your height and weight)  
 
-https://drive.google.com/file/d/14ZojjPnFlRBA7-_abain99S7BLJvvZSO/view?usp=sharing  
+https://drive.google.com/file/d/1gHAT-IeaP-up7vsPxGQVyle-tH3pPNI6/view?usp=sharing  
 
 ![1_200x](https://user-images.githubusercontent.com/70852067/97576688-27c88000-19f7-11eb-8bdd-e2a26579035c.png)
 ![2_200x](https://user-images.githubusercontent.com/70852067/97576690-28f9ad00-19f7-11eb-88d4-fb3460c8f9f3.png)
